@@ -106,7 +106,7 @@ The project includes:
 - Entity Relationship Diagram (ERD)
 
 
-## 🎨 Prototype
+## Prototype
 
 The user interface prototype was designed using Figma and includes:
 

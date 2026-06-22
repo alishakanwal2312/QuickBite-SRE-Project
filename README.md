@@ -19,7 +19,7 @@ The project focuses on requirement engineering activities including stakeholder 
 
 ## Stakeholders
 
-| Stakeholder   Role |
+| Stakeholder | Role |
 |------------|------|
 | Customer | Places food orders and tracks deliveries |
 | Restaurant Owner | Manages menu items and customer orders |
@@ -28,7 +28,6 @@ The project focuses on requirement engineering activities including stakeholder 
 | Payment Service Provider | Handles online payment processing |
 | Customer Support Staff | Resolves customer complaints |
 
----
 
 ## Functional Requirements
 
@@ -131,7 +130,7 @@ The user interface prototype was designed using Figma and includes:
 | Version Control | GitHub |
 
 
-## 📚 Course Information
+## Course Information
 
 **Course:** Software Requirements Engineering Lab
 
@@ -143,6 +142,6 @@ The user interface prototype was designed using Figma and includes:
 
 
 
-## 📌 Conclusion
+## Conclusion
 
 QuickBite is a requirement engineering project that demonstrates the complete requirements engineering lifecycle, including stakeholder identification, requirement elicitation, analysis, specification, validation, and documentation. The project provides a practical solution for online food ordering and delivery management while following software engineering best practices.
